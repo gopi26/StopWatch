@@ -1,2 +1,1 @@
 # StopWatch
-\*Gopi\*
